@@ -15,5 +15,15 @@ kernel: -
 
 ![preview](./Capture.PNG)
 
+UNIX FILE SYSTEMS:
+![preview](./IMG20200124164447.jpg)
+![preview](./IMG20200124164457.jpg)
 
-[venky](./main.json)
+```
+* / : root directory
+* /BIN: it contains all excutable files available for the user.
+* /dev: it contains all device drivers.
+* /boot: it contains all bootable files info,to reboot the system.
+* /etc: all configiration files are stored.
+```
+
