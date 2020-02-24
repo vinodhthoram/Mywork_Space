@@ -1,9 +1,23 @@
- # LINUX NOTES
-   File system: unix file system is used store information in the files.
-   * shell
-   * kernel
+   # LINUX NOTES
+* OS is a software which operates all hardware components.
 
-shell: 
+   ## File system: 
+   * file system is a collection of files and directories stored in
+     different format of the disk. 
+   * unix file system is used store information in the files.
+   * all operating systems(OS) are depends on file systems.
+   
+   ## Types of file systems
+   * disk based file systems.
+   * network based file systems.
+   * virtual based file systems.
+
+   ### ext2/ext3/ext4/xfs: these file systems are used by linux operating systems.
+   
+   ## shell
+   ## kernel
+
+### shell: 
   * collection of unix commands is called shell.
   * shell is programming file of a operating system
   * shell will act as a interpedator between user and system hardware
