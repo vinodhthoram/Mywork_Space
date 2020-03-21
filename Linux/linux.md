@@ -41,3 +41,12 @@ UNIX FILE SYSTEMS:
 * /etc: all configiration files are stored.
 ```
 
+### back up files in linux
+
+```
+echo "The backup of the file is"
+read file
+cp $file ${file}-bkp
+
+```
+

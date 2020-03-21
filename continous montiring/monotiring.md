@@ -11,11 +11,12 @@
  * Passive
  passive checks will not give real numbers directly. it deals with logs.
 
-* for Passive monitoring no need of monitoring tool for Active       monitoring tool is required.
+* for Passive monitoring no need of monitoring tool for Active monitoring tool is required.
 
 ## Infrastructure monitoring
 * Nagios , Icinga , Zabbix
 
 ### Nagios
-* nagios is a server which  helps us to do system monitoring. it monitores details related infrastructure it could be database,router,switches
+* nagios is a server which  helps us to do system monitoring. it monitores details related to infrastructure it
+  could be database,router,switches
 * nagios should work it requires server other one is client.
