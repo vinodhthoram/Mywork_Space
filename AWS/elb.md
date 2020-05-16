@@ -16,3 +16,10 @@
 ### Autoscaler: monitor the incoming traffic and scales request handling capacity
 
 ### Loadbalancer: distribute the load of incoming traffic amongest the set of worker nodes 
+
+## Vertical Scaling :
+ * increasing computing capacity is called verticall scaling.
+
+## Horizontal Scaling:
+ * increasing number of servers
+ 
